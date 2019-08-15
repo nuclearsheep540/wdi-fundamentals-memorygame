@@ -12,7 +12,7 @@ h1 {
 	margin: 0px;
 	font-family: "Raleway";
 	text-decoration: uppercase;
-	color: #0D2C40;
+	color: white;
 	letter-spacing: 1px;
 	font-weight: 400;
 	font-size: 45px;
@@ -68,6 +68,7 @@ nav{
 a {
 	margin: 0 20px;
 	color: #FFFFFF;
+	text-decoration: none;
 }
 
 a:hover {
@@ -96,6 +97,7 @@ footer {
 	font-size: 14px;
 	letter-spacing: .08em;
 	font-weight: 500;
+	bottom:0px;
 }
 .copyright {
 	float: left;
